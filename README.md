@@ -24,6 +24,8 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
+dart --version.
+This command displays the installed Dart version, confirming that Dart is properly installed on your system.
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
@@ -31,6 +33,9 @@ A) Install Homebrew
 B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
+
+===> Update your PATH.
+After updating your PATH, you can run flutter commands from the terminal, and then proceed to run flutter doctor to check your system setup.
 
 
 4. What command is used to run a newly created Flutter app?
@@ -40,6 +45,8 @@ B) flutter build
 C) flutter run
 D) flutter init
 
+==> flutter run.
+This command launches the app on an emulator or connected device.
 
 #Python Installation
 
@@ -57,12 +64,18 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 
+===> Download Python from the official website.
+You can download Python from python.org, and then proceed with the installation steps
+
 How do you verify Python installation on any system?
 
 A) By running python --version
 B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
+
+==> By running python --version
+it will display the installed version of Python, confirming that it is properly installed on your system
 
 What command is used to install pip on macOS and Linux?
 
@@ -71,12 +84,18 @@ B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
+==> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py.
+After downloading the script, you can run it with:  python get-pip.py
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
+
+===> To separate project dependencies and avoid conflicts.
+Virtual environments allow you to isolate packages and dependencies for different projects, preventing conflicts between them.
 
 #MySQL Installation
 
