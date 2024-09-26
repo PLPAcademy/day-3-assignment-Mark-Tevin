@@ -106,12 +106,18 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 
+===> Download MySQL Installer from the official website.
+After downloading the installer, you can proceed with selecting the components you want to install, such as MySQL Server, Workbench, and Shell
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
 B) Server Only
 C) Full
 D) Custom
+
+==> Custom.
+This allows one to select specific MySQL components and configure the installation according to your needs.
 
 Which products should you select during the MySQL installation?
 
@@ -120,6 +126,9 @@ B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
 
+===> MySQL Server, MySQL Workbench, and MySQL Shell.
+This combination provides you with the core server functionality, a graphical interface for managing your databases, and a command-line tool for database management.
+
 What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
@@ -127,9 +136,15 @@ B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
+===> To secure your MySQL installation with a super-secret password.
+The root password is essential for securing the MySQL server and controlling access to administrative privileges
+
 How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+===> Launch MySQL Workbench and connect to your MySQL Server.
+MySQL Workbench provides a user-friendly interface for database management, allowing you to execute queries, design databases, and perform administrative tasks.
