@@ -13,7 +13,7 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
-B) Download the Dart SDK.
+==> Download the Dart SDK.
 After downloading the SDK, you'll proceed with updating your PATH and running other setup steps.
 
 
